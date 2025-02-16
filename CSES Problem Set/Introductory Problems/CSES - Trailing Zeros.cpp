@@ -25,9 +25,6 @@
 
 using namespace std;
 
-
-
-
 signed main(){
     OPTIMIZAR_IO
     PRESICION(0)
